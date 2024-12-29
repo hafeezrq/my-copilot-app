@@ -1,13 +1,13 @@
 package com.example.copilot;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+public class App {
+    /**
+     * The main method serves as the entry point for the Java application.
+     * It prints "Hello World!" to the standard output.
+     *
+     * @param args Command line arguments passed to the program (not used).
+     */
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
     }
 }
